@@ -1,24 +1,26 @@
-# HelicopterHUD
-Helicopter HUD that includes a few cool features.
+# HelicopterHUD 2.0.0
 
-# Need Support?
+Helicopter HUD
 
-[![Need Support?](https://i.imgur.com/fqKYWeV.png)](https://discord.gg/Z9Mxu72zZ6)
-
-# Features: 
-* Slower takeoff 
+# Features:
+* Slower takeoff
 * Slower landing
 * Engine status
 * Main rotor status
 * Tail rotor status
 * Altitude display
 * Airspeed display
-
-# Video preview:
-https://youtu.be/jphoddvr-4Y
-
-# Image preview:
-https://i.imgur.com/mfI55Kv.png
-
-# Download link:
-https://forum.cfx.re/t/release-free-helicopter-hud-with-takeoff-landing-system/4113357
+* Toggleable HUD with keybind
+* Reset HUD/UI positions
+* Job/duty check for HUD visibility
+* Blinking warnings for alerts
+* Dynamic HUD width adjustment
+* Fuel display
+* Low fuel warning with sound
+* Landing assist messages
+* Hard landing alert with sound
+* Background graphics behind HUD
+* Damage panel (engine, rotors, body health)
+* Automatic engine shutdown on empty fuel
+* Automatic engine shutdown after landing
+* Configurable visual and sound options
